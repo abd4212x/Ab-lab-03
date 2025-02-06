@@ -8,3 +8,5 @@ int substract = a-b;
 Console.WriteLine($"The substract of two numbers is {substract}");
 int multiplication = a * b;
 Console.WriteLine($"the multiplication of two numbers is {multiplication}");
+double division = a/b;
+Console.WriteLine($"The division of two number is {divisioin}");
